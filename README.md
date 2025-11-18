@@ -16,14 +16,23 @@ This repository serves as the **foundation** for my upcoming work in **Data Scie
 The repository is organized into modular folders, following a step-by-step learning curriculum:
 
 Python-Learning-Journey/
+
 │
+
 ├── 01_Basics/              # Variables, Data Types, Type Casting
+
 ├── 02_Control_Flow/        # If/Else, Loops (For/While), Logic Gates
+
 ├── 03_Data_Structures/     # Lists, Dictionaries, Sets, Tuples (Hash Maps)
+
 ├── 04_Functions/           # Methods, Lambda, Map/Filter, Args/Kwargs
+
 ├── 05_OOP_Concepts/        # Classes, Inheritance, Encapsulation, Polymorphism
+
 ├── 06_File_Handling/       # Reading/Writing TXT files, Context Managers
+
 └── 07_Modules_Libraries/   # Custom Modules, Imports, Built-in Libraries
+
 
 ## 🏆 Key Projects & Highlights
 Here are some of the mini-projects and key implementations included in this repo:
