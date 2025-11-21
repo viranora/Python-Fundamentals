@@ -61,13 +61,4 @@ Concepts: Lambda functions, Map & Filter operations.
 
 Description: Functional programming examples used for filtering data and converting units (Essential for Data Science).
 
-## 🗺️ Roadmap
-My learning journey continues! This repository is Phase 1.
-
-[x] Phase 1: Python Fundamentals & Engineering Logic (This Repo) ✅
-
-[ ] Phase 2: Data Science & Analytics (Pandas, NumPy, Visualization) ⏳
-
-[ ] Phase 3: Machine Learning Models (Scikit-Learn) ⏳
-
 by vira
